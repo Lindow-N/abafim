@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abafim/static/css/main.749acc26.css",
+    "main.js": "/abafim/static/js/main.b2427ede.js",
+    "index.html": "/abafim/index.html",
+    "main.749acc26.css.map": "/abafim/static/css/main.749acc26.css.map",
+    "main.b2427ede.js.map": "/abafim/static/js/main.b2427ede.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.749acc26.css",
+    "static/js/main.b2427ede.js"
+  ]
+}
